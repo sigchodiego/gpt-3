@@ -1,5 +1,4 @@
-import { useState } from "react";
-
+import "./App.css";
 import {
   Footer,
   Blog,
@@ -9,8 +8,6 @@ import {
   WhatGPT3,
 } from "./containers";
 import { Cta, Brand, Navbar } from "./components";
-
-import "./App.css";
 
 function App() {
   return (
